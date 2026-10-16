@@ -7,7 +7,7 @@ cask "deskmap" do
   desc "Keeps every window on the right display, desktop and layout"
   homepage "https://github.com/cnkndmr/Deskmap"
 
-  depends_on macos: ">= :ventura"
+  depends_on macos: :ventura
 
   app "Deskmap.app"
 
