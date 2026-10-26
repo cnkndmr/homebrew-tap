@@ -1,6 +1,6 @@
 cask "deskmap" do
-  version "0.5.0"
-  sha256 "c96a74292072ebb06c9f27d3a5665a17dc176ab058f0840a27fa98694f4070e3"
+  version "0.6.0"
+  sha256 "54d9979424176235bac92ffcd183ff23c90c526f5f14d31247f3ad5b3c4cec62"
 
   url "https://github.com/cnkndmr/Deskmap/releases/download/v#{version}/Deskmap-#{version}.zip"
   name "Deskmap"
