@@ -3,6 +3,7 @@
 Homebrew casks for [Deskmap](https://github.com/cnkndmr/Deskmap).
 
 ```bash
+brew trust cnkndmr/tap   # Homebrew 7 and later, once
 brew install --cask cnkndmr/tap/deskmap
 ```
 
